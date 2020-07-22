@@ -13,7 +13,7 @@ Aplikasi ini sangat mudah digunakan. Pengguna tinggal mendaftarkan dirinya, lalu
   6.  Location Based Service
   7.  Firebase
 
-#### [Demo Apps in Youtube]
+#### [Demo Apps]
 
 Demo Apps [link](https://drive.google.com/file/d/1TKZ7p0Ig2k4D5p9k98YCebj9COVvlGsz/view?usp=sharing)
 
