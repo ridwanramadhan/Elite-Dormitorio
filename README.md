@@ -8,9 +8,10 @@ Aplikasi ini sangat mudah digunakan. Pengguna tinggal mendaftarkan dirinya, lalu
   1.  Recycler View
   2.  Scroll View
   3.  Intent
-  4.  Picasso (for put image to view)
-  5.  Location Based Service
-  6.  Firebase
+  4.  CardView
+  5.  Picasso (for put image to view)
+  6.  Location Based Service
+  7.  Firebase
 
 #### [Demo Apps in Youtube]
 
