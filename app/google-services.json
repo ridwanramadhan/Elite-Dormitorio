@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "62812572933",
+    "firebase_url": "https://elite-dormitorio.firebaseio.com",
+    "project_id": "elite-dormitorio",
+    "storage_bucket": "elite-dormitorio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62812572933:android:a28c863e2c9d82818c3b6c",
+        "android_client_info": {
+          "package_name": "pnj.uas.muhammad_ridwan_ramadhan.elitedormitorio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62812572933-vumpvehdve2edqe7nt2eva1t9rtpm3ma.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pnj.uas.muhammad_ridwan_ramadhan.elitedormitorio",
+            "certificate_hash": "bbf6d3b964fab72cae629a00838be37cee6a17ca"
+          }
+        },
+        {
+          "client_id": "62812572933-c59o9du4ma9k9up65k0j36t6tjdl0puq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pnj.uas.muhammad_ridwan_ramadhan.elitedormitorio",
+            "certificate_hash": "d490b9734e63fd41f9cd0aa977c817c756c9018a"
+          }
+        },
+        {
+          "client_id": "62812572933-d3jqvnhbur77f4mk6ej227del3ke4aem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIw9lYOgdeZ8AZAjr3HrvxuFbmmhXrgto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62812572933-d3jqvnhbur77f4mk6ej227del3ke4aem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
